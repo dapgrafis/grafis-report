@@ -1,0 +1,8 @@
+{
+  "name": "dashboard-grafis",
+  "private": true,
+  "description": "Dashboard tiket Graphic Design",
+  "dependencies": {
+    "xlsx": "0.18.5"
+  }
+}
